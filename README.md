@@ -17,3 +17,19 @@ division-by-zero error handling.
 
 ### Status
 Task 1 completed.
+
+## Task 2: Matrix Operations
+
+### Description
+C program to perform:
+- Matrix Addition
+- Matrix Multiplication
+- Matrix Transpose
+
+### Concepts Used
+- 2D Arrays
+- Functions
+- Nested loops
+
+### Status
+Task 2 completed.
