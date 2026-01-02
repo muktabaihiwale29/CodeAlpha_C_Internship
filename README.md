@@ -33,3 +33,22 @@ C program to perform:
 
 ### Status
 Task 2 completed.
+
+## Task 3: Student Management System
+
+### Description
+Menu-driven C program using structures and file handling to manage student records.
+
+### Features
+- Add student
+- Display students
+- Search student
+- Delete student
+
+### Concepts Used
+- Structures
+- File handling
+- Binary files
+
+### Status
+Task 3 completed.
