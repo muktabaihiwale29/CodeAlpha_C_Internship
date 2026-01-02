@@ -52,3 +52,22 @@ Menu-driven C program using structures and file handling to manage student recor
 
 ### Status
 Task 3 completed.
+
+## Task 4: Banking Management System
+
+### Description
+Menu-driven banking system implemented in C using structures and file handling.
+
+### Features
+- Create account
+- Deposit money
+- Withdraw money
+- Balance enquiry
+
+### Concepts Used
+- Structures
+- File handling
+- Menu-driven program
+
+### Status
+Task 4 completed.
